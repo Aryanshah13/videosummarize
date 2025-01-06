@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@gptscript-ai/gptscript": "^0.9.5",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "typescript": "^5.7.2",
+    "uniqid": "^5.4.0"
+  }
+}
