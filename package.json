@@ -1,6 +1,7 @@
 {
   "type": "module",
   "dependencies": {
+    "@google/generative-ai": "^0.21.0",
     "@gptscript-ai/gptscript": "^0.9.5",
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
