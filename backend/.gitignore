@@ -4,7 +4,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 package-lock.json
-yarn.lock
+package.json
 
 # Logs
 logs
@@ -29,6 +29,9 @@ Thumbs.db
 # Temporary files
 tmp/
 temp/
+
+# Tailwind CSS configuration
+tailwind.config.js
 
 # Ignore .gitignore file itself
 .gitignore
